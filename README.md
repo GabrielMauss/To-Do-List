@@ -10,4 +10,4 @@ To-Do List (Lista de Tarefas):
 
 
 <h1>EXEMPLO MODELO</h1>
-<img scr="![image](https://github.com/user-attachments/assets/abc032da-fca3-42f4-881b-6bdaa31ab2f7)"> 
+<img href="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_ToDo_960x615_2x_1_RE3HTxG?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fmt=png-alpha&fit=constrain"> 
